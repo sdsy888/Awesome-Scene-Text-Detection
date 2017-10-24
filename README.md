@@ -23,7 +23,6 @@ Resources of text detection in the wild
 
 - **Synthetic Data for Text Localisation in Natural Images
 **
--
   - [PDF](http://www.robots.ox.ac.uk/~ankush/textloc.pdf)
   - [GitHub](https://github.com/ankush-me/SynthText)
   - Intro: synthesize text on image using program for pre-train or data augmentation
