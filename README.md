@@ -21,8 +21,7 @@ Resources of text detection in the wild
   - Baoguang Shi,Xiang Bai,Serge Belongie
   - [arxiv](https://arxiv.org/abs/1703.06520)
 
-- **Synthetic Data for Text Localisation in Natural Images
-**
+- **Synthetic Data for Text Localisation in Natural Images**
   - [PDF](http://www.robots.ox.ac.uk/~ankush/textloc.pdf)
   - [GitHub](https://github.com/ankush-me/SynthText)
   - Intro: synthesize text on image using program for pre-train or data augmentation
@@ -51,6 +50,6 @@ Resources of text detection in the wild
 
 ## CVPR'16
 
--  **Multi-Oriented Text Detection with Fully Convolutional Networks**
+- **Multi-Oriented Text Detection with Fully Convolutional Networks**
   - Zheng Zhang1∗ Chengquan Zhang1∗ Wei Shen2 Cong Yao1 Wenyu Liu1 Xiang Bai1
   - [arxiv](https://arxiv.org/abs/1604.04018)
