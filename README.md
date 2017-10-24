@@ -18,14 +18,16 @@ Resources of text detection in the wild
 ## CVPR'17
 
 -  **Detecting Oriented Text in Natural Images by Linking Segments**
-  - Baoguang Shi∗† Xiang Bai∗ Serge Belongie
+  - Baoguang Shi,Xiang Bai,Serge Belongie
   - [arxiv](https://arxiv.org/abs/1703.06520)
+
 
 - **Synthetic Data for Text Localisation in Natural Images
 **
   - [PDF](http://www.robots.ox.ac.uk/~ankush/textloc.pdf)
   - [GitHub](https://github.com/ankush-me/SynthText)
   - Intro: synthesize text on image using program for pre-train or data augmentation
+
 
 
 
@@ -39,13 +41,13 @@ Resources of text detection in the wild
 
 
 
-
 ## IJCV'17
 
 - **Reading Text in the Wild with Convolutional Neural Networks**
   - Max Jaderberg · Karen Simonyan · Andrea Vedaldi · Andrew Zisserman(VGG团队的工作)
   - [GitHub](https://github.com/mathDR/reading-text-in-the-wild)
   - [Lab page](http://www.robots.ox.ac.uk/~vgg/research/text/)
+
 
 
 ## CVPR'16
