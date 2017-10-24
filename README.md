@@ -10,17 +10,16 @@ Resources of text detection in the wild
 
 ## ICCV'17
 
--  **Deep Direct Regression for Multi-Oriented Scene Text Detection**
+- **Deep Direct Regression for Multi-Oriented Scene Text Detection**
   - Wenhao He; Xu-Yao Zhang; Fei Yin; Cheng-Lin Liu
   - [arxiv](https://arxiv.org/pdf/1703.08289)
 
 
 ## CVPR'17
 
--  **Detecting Oriented Text in Natural Images by Linking Segments**
+- **Detecting Oriented Text in Natural Images by Linking Segments**
   - Baoguang Shi,Xiang Bai,Serge Belongie
   - [arxiv](https://arxiv.org/abs/1703.06520)
-
 
 - **Synthetic Data for Text Localisation in Natural Images
 **
