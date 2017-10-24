@@ -31,7 +31,7 @@ Resources of text detection in the wild
 
 ## AAAI'17
 
--  **TextBoxes: A Fast Text Detector with a Single Deep Neural Network**
+- **TextBoxes: A Fast Text Detector with a Single Deep Neural Network**
   - Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu
   - [github](https://github.com/MhLiao/TextBoxes)
   - [arxiv](https://arxiv.org/abs/1611.06779)
