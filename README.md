@@ -1,5 +1,5 @@
-# Scene Text Detection Resources
-Text detection in the wild
+# Scene Text Detection Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Resources of text detection in the wild
 
 ## Overview
 
@@ -7,14 +7,14 @@ Text detection in the wild
   - Yingying ZHU, Cong YAO, Xiang BAI
   - [Link](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/FCS_TextSurvey_2015.pdf)
 
----
+
 ## ICCV'17
 
 -  **Deep Direct Regression for Multi-Oriented Scene Text Detection**
   - Wenhao He; Xu-Yao Zhang; Fei Yin; Cheng-Lin Liu
   - [arxiv](https://arxiv.org/pdf/1703.08289)
 
----
+
 ## CVPR'17
 
 -  **Detecting Oriented Text in Natural Images by Linking Segments**
@@ -29,7 +29,7 @@ Text detection in the wild
   - Intro: synthesize text on image using program for pre-train or data augmentation
 
 
----
+
 ## AAAI'17
 
 -  **TextBoxes: A Fast Text Detector with a Single Deep Neural Network**
@@ -40,7 +40,7 @@ Text detection in the wild
 
 
 
----
+
 ## IJCV'17
 
 - **Reading Text in the Wild with Convolutional Neural Networks**
@@ -48,7 +48,7 @@ Text detection in the wild
   - [GitHub](https://github.com/mathDR/reading-text-in-the-wild)
   - [Lab page](http://www.robots.ox.ac.uk/~vgg/research/text/)
 
----
+
 ## CVPR'16
 
 -  **Multi-Oriented Text Detection with Fully Convolutional Networks**
