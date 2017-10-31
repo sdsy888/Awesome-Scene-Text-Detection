@@ -1,6 +1,12 @@
 # Scene Text Detection Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Resources of text detection in the wild (also contains some cool recognition related content)
 
+
+#
+
+
+# Paper
+
 ## Overview
 
 - **Scene Text Detection and Recognition: Recent Advances and Future Trends**
@@ -13,6 +19,10 @@ Resources of text detection in the wild (also contains some cool recognition rel
 - **Deep Direct Regression for Multi-Oriented Scene Text Detection**
   - Wenhao He; Xu-Yao Zhang; Fei Yin; Cheng-Lin Liu
   - [arxiv](https://arxiv.org/pdf/1703.08289)
+
+- **Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**
+  - H. Li, P. Wang, C. Shen
+  - [arxiv](http://arxiv.org/abs/1705.00389)
 
 
 ## CVPR'17
